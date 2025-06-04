@@ -28,7 +28,3 @@ demineur/
 └── demineur.js
 ```
 
-## Compétences développées
-- JavaScript vanilla
-- Manipulation du DOM
-- Algorithmes de jeu
